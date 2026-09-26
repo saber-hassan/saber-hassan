@@ -11,34 +11,47 @@
   <img src="https://komarev.com/ghpvc/?username=saber-hassan&label=Profile%20views&color=2f81f7&style=flat" alt="profile views" />
   <a href="https://github.com/saber-hassan?tab=followers"><img src="https://img.shields.io/github/followers/saber-hassan?label=Followers&style=flat&color=2f81f7" alt="followers" /></a>
 </p>
----
-🧑‍💻 About Me
-🎓 CSE student at United International University, Dhaka 🇧🇩
-🤖 Currently learning Machine Learning & AI with Python
-🌐 Build web apps with JavaScript/React on the frontend and Spring or PHP on the backend
-🔭 Contributed to Enrollium, a fairer and smoother course section selection system built in Java
-💡 Enjoy solving problems in C/C++ and scripting ideas quickly in Python
-🤝 Open to collaborating on student and open-source projects
----
-🛠️ Tech Stack
-Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,php,html,css" alt="languages" />
-</p>
-Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind,sklearn,tensorflow,pytorch" alt="frameworks" />
-</p>
-Tools & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode,linux" alt="tools" />
-</p>
----
-🚀 Featured Project
-Project	Description	Tech
-Enrollium	A system that makes university section selection smoother, fairer and stress-free, covering both frontend and backend	Java
----
-📊 GitHub Stats
+<hr/>
+<h2 align="center">🧑‍💻 About Me</h2>
+<table align="center">
+  <tr><td>🎓</td><td><b>Education</b></td><td>CSE Student at <b>United International University</b>, Dhaka 🇧🇩</td></tr>
+  <tr><td>🤖</td><td><b>Learning</b></td><td>Machine Learning &amp; AI with Python</td></tr>
+  <tr><td>🌐</td><td><b>Web Dev</b></td><td>JavaScript / React on the frontend, Spring or PHP on the backend</td></tr>
+  <tr><td>🔭</td><td><b>Project</b></td><td>Contributed to <a href="https://github.com/hamedzurat/Enrollium"><b>Enrollium</b></a>, a fairer course section selection system</td></tr>
+  <tr><td>💡</td><td><b>Loves</b></td><td>Problem solving in C/C++ and quick scripting in Python</td></tr>
+  <tr><td>🤝</td><td><b>Open to</b></td><td>Collaborating on student and open-source projects</td></tr>
+</table>
+<br/>
+<hr/>
+<h2 align="center">🛠️ Tech Stack</h2>
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,php,html,css&perline=8" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧩 Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind&perline=8" alt="frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 ML &amp; AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=8" alt="machine learning" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Tools &amp; DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode,linux&perline=8" alt="tools" /></td>
+  </tr>
+</table>
+<br/>
+<hr/>
+<h2 align="center">🚀 Featured Project</h2>
+<table align="center">
+  <tr><th>Project</th><th>Description</th><th>Tech</th></tr>
+  <tr><td><a href="https://github.com/hamedzurat/Enrollium"><b>Enrollium</b></a></td><td>Makes university section selection smoother, fairer and stress-free, with frontend and backend</td><td>Java</td></tr>
+</table>
+<br/>
+<hr/>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=saber-hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saber-hassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
@@ -49,14 +62,14 @@ Enrollium	A system that makes university section selection smoother, fairer and 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saber-hassan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 </p>
----
-🏆 Achievements
-<p align="left">
+<hr/>
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="64" alt="Pull Shark" />
 </p>
----
-📫 Connect With Me
-<p align="left">
+<hr/>
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
   <a href="mailto:shassan2330870@bscse.uiu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801741599088"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.facebook.com/share/1HG3BNvej7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
