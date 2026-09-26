@@ -44,19 +44,12 @@
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 ML &amp; AI</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" title="PyTorch" /></td>
-  </tr>
-  <tr>
     <td align="center"><b>🔧 Tools &amp; DB</b></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
       <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" /></td>
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /></td>
   </tr>
 </table>
 <br/>
