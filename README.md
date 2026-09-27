@@ -14,7 +14,7 @@
 <hr/>
 <h2 align="center">🧑‍💻 About Me</h2>
 <table align="center">
-  <tr><td>🎓</td><td><b>Education</b></td><td>CSE Student at <b>United International University</b>, Dhaka 🇧🇩</td></tr>
+  <tr><td>🎓</td><td><b>Education</b></td><td>CSE Student at <b>United International University</b>, Dhaka</td></tr>
   <tr><td>🤖</td><td><b>Learning</b></td><td>Machine Learning &amp; AI with Python</td></tr>
   <tr><td>🌐</td><td><b>Web Dev</b></td><td>JavaScript / React on the frontend, Spring or PHP on the backend</td></tr>
   <tr><td>🔭</td><td><b>Project</b></td><td>Contributed to <a href="https://github.com/hamedzurat/Enrollium"><b>Enrollium</b></a>, a fairer course section selection system</td></tr>
